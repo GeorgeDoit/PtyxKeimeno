@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.4.19)  6 AUG 2019 12:42
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.4.19)  4 SEP 2019 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -502,16 +502,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lot=\write5
 \openout5 = `test.lot'.
 
- [7] [8] [9]
+ [7] [8] [9] [10]
 File: ./images/Cordova.png Graphic file (type bmp)
 <./images/Cordova.png>
- [10] [11]
+ [11]
 File: ./images/Cordova2.png Graphic file (type bmp)
 <./images/Cordova2.png>
  [12] [13]
+Overfull \hbox (2.25977pt too wide) in paragraph at lines 227--228
+[]\TU/TimesNewRoman(1)/m/n/12 Το τελευταίο στοιχείο είναι ένα πρόσθετο πληκτρολογίου, \TU/TimesNewRoman(1)/bx/n/12 keyboard plugin\TU/TimesNewRoman(1)/m/n/12 .
+ []
+
 File: ./images/ionic.png Graphic file (type bmp)
 <./images/ionic.png>
- [14] [15] [16] [17] [18] [19] [20]
+[14] [15] [16] [17] [18] [19] [20]
 File: ./images/a1.png Graphic file (type bmp)
 <./images/a1.png>
  [21]
@@ -544,7 +548,7 @@ File: ./images/ionic3.jpg Graphic file (type bmp)
 File: ./images/ionic4.jpg Graphic file (type bmp)
 <./images/ionic4.jpg>
 
-Underfull \hbox (badness 1642) in paragraph at lines 520--524
+Underfull \hbox (badness 1642) in paragraph at lines 522--526
 \TU/TimesNewRoman(1)/m/n/12 ρυθμίσεις παραμέτρων CLI για όλα τα
  []
 
@@ -574,22 +578,22 @@ File: ./images/home3.jpg Graphic file (type bmp)
 File: ./images/homeImports.jpg Graphic file (type bmp)
 <./images/homeImports.jpg>
 
-Underfull \hbox (badness 1442) in paragraph at lines 684--690
+Underfull \hbox (badness 1442) in paragraph at lines 686--692
 \TU/TimesNewRoman(1)/m/n/12 γουμε για τις διάφορες λειτουργίες της
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 684--690
+Underfull \hbox (badness 1117) in paragraph at lines 686--692
 \TU/TimesNewRoman(1)/m/n/12 μένων από σελίδα σε σελίδα. \TU/TimesNewRoman(1)/bx/n/12 Network
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 684--690
+Underfull \hbox (badness 1888) in paragraph at lines 686--692
 \TU/TimesNewRoman(1)/m/n/12 για πληροφορίες δικτύου. \TU/TimesNewRoman(1)/bx/n/12 Auth2Service \TU/TimesNewRoman(1)/m/n/12 για πληροφορίες χρήστη. \TU/TimesNewRoman(1)/bx/n/12 Storage
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 684--690
+Underfull \hbox (badness 3930) in paragraph at lines 686--692
 \TU/TimesNewRoman(1)/m/n/12 για τη χρήση του αποθηκευτικού χώρου της συσκευής. \TU/TimesNewRoman(1)/bx/n/12 AlertController,
  []
 
@@ -597,7 +601,7 @@ Underfull \hbox (badness 3930) in paragraph at lines 684--690
 File: ./images/homInit.jpg Graphic file (type bmp)
 <./images/homInit.jpg>
 
-Underfull \hbox (badness 3989) in paragraph at lines 698--702
+Underfull \hbox (badness 3989) in paragraph at lines 700--704
 [][]\TU/TimesNewRoman(1)/m/n/12 Ο \TU/TimesNewRoman(1)/bx/n/12 contstructor \TU/TimesNewRoman(1)/m/n/12 είναι η προεπιλεγ-
  []
 
@@ -605,22 +609,22 @@ Underfull \hbox (badness 3989) in paragraph at lines 698--702
 File: ./images/checkUser.jpg Graphic file (type bmp)
 <./images/checkUser.jpg>
 
-Underfull \hbox (badness 1389) in paragraph at lines 712--715
+Underfull \hbox (badness 1389) in paragraph at lines 714--718
 \TU/TimesNewRoman(1)/m/n/12 σταθερές (UidBegginer, UidIntermadiate
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 712--715
+Underfull \hbox (badness 2426) in paragraph at lines 714--718
 \TU/TimesNewRoman(1)/bx/n/12 storage.get(UidBegginer) \TU/TimesNewRoman(1)/m/n/12 παίρνουμε τα
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 712--715
+Underfull \hbox (badness 1454) in paragraph at lines 714--718
 \TU/TimesNewRoman(1)/m/n/12 μές τέτοιες ώστε ο χρήστης να μπορέι
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 712--715
+Underfull \hbox (badness 1253) in paragraph at lines 714--718
 \TU/TimesNewRoman(1)/bx/n/12 false\TU/TimesNewRoman(1)/m/n/12 . Στη συνέχεια αν το μάθημα έχει
  []
 
@@ -649,7 +653,9 @@ File: ./images/navig.jpg Graphic file (type bmp)
 <./images/navig.jpg>
 File: ./images/navig2.jpg Graphic file (type bmp)
 <./images/navig2.jpg>
- [42]
+ [42
+
+]
 File: ./images/lesson2.jpg Graphic file (type bmp)
 <./images/lesson2.jpg>
 File: ./images/lesson3.jpg Graphic file (type bmp)
@@ -660,7 +666,9 @@ File: ./images/lesson5.jpg Graphic file (type bmp)
 <./images/lesson5.jpg>
 File: ./images/doneHtml.jpg Graphic file (type bmp)
 <./images/doneHtml.jpg>
- [43]
+ [43
+
+]
 File: ./images/doneTS.jpg Graphic file (type bmp)
 <./images/doneTS.jpg>
  [44]
@@ -670,18 +678,39 @@ File: ./images/lesson6.jpg Graphic file (type bmp)
 <./images/lesson6.jpg>
 File: ./images/profile4.jpg Graphic file (type bmp)
 <./images/profile4.jpg>
- [45] [46] (./test.aux)
+File: ./images/profile5.jpg Graphic file (type bmp)
+<./images/profile5.jpg>
+ [45]
+File: ./images/calChart.jpg Graphic file (type bmp)
+<./images/calChart.jpg>
+File: ./images/weightChart.jpg Graphic file (type bmp)
+<./images/weightChart.jpg>
+ [46]
+File: ./images/settings1.jpg Graphic file (type bmp)
+<./images/settings1.jpg>
+File: ./images/settings3.jpg Graphic file (type bmp)
+<./images/settings3.jpg>
+ [47]
+File: ./images/settings2.jpg Graphic file (type bmp)
+<./images/settings2.jpg>
+ [48
+
+] [49
+
+] [50
+
+] (./test.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14936 strings out of 492933
- 318177 string characters out of 6136537
+ 14960 strings out of 492933
+ 318729 string characters out of 6136537
  504893 words of memory out of 5000000
- 18798 multiletter control sequences out of 15000+600000
+ 18816 multiletter control sequences out of 15000+600000
  536195 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  49i,17n,79p,856b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on test.xdv (46 pages, 408144 bytes).
+Output written on test.xdv (50 pages, 455804 bytes).

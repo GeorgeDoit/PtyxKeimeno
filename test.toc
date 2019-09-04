@@ -25,8 +25,11 @@
 \contentsline {paragraph}{Εγκατάσταση Ionic 4}{27}% 
 \contentsline {subsection}{\numberline {6.4}Έλεγχος}{32}% 
 \contentsline {subsection}{\numberline {6.5}∆ιανοµή}{32}% 
-\contentsline {section}{\numberline {7}Παρουσίαση Εφαρμογής με περιγραφή κώδικα}{33}% 
+\contentsline {section}{\numberline {7}Παρουσίαση εφαρμογής με περιγραφή κώδικα}{33}% 
 \contentsline {subsection}{\numberline {7.1}Δημιουργία συστήματος ελέγχου ταυτότητας χρήστη}{33}% 
 \contentsline {subsection}{\numberline {7.2}Home Page}{37}% 
-\contentsline {section}{\numberline {8} Συµπεράσµατα και Μελλοντικές Επεκτάσεις }{46}% 
-\contentsline {section}{\numberline {9}Δικτυογραφία-Βιβλιογραφία}{46}% 
+\contentsline {subsection}{\numberline {7.3}Lesson Page}{41}% 
+\contentsline {subsection}{\numberline {7.4}Profile Page}{45}% 
+\contentsline {section}{\numberline {8}Settings Page}{47}% 
+\contentsline {section}{\numberline {9} Συµπεράσµατα και Μελλοντικές Επεκτάσεις}{49}% 
+\contentsline {section}{\numberline {10}Δικτυογραφία-Βιβλιογραφία}{50}% 
