@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1567609053 "test.xdv" "test.pdf" "test" 1567609084
-  "test.xdv" 1567609050 455804 4bcdc12611908dc23b53dcefe38e0821 "xelatex"
+["xdvipdfmx"] 1568223069 "test.xdv" "test.pdf" "test" 1568224583
+  "test.xdv" 1568223068 457148 4a681fdd19e3be37e8984df39fafec93 "xelatex"
   (generated)
   "test.pdf"
-["xelatex"] 1567609010 "c:/Users/AELGD/Desktop/ManolisTest/test.tex" "test.xdv" "test" 1567609084
-  "c:/Users/AELGD/Desktop/ManolisTest/test.tex" 1567609005 80784 6dba4a305a5c715a6dbcafb9c4e5949f ""
+["xelatex"] 1568223062 "c:/Users/AELGD/Desktop/ManolisTest/test.tex" "test.xdv" "test" 1568224583
+  "c:/Users/AELGD/Desktop/ManolisTest/test.tex" 1568224581 81035 f27c11cc59dc9df181bc8d30361a3791 ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1555666737 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1555665376 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1555665376 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -156,15 +156,15 @@
   "images/weightChart.JPG" 1565263850 45740 9c45f67c26e68b3f8284a947050ab0c1 ""
   "images/weightChart.jpg" 1565263850 45740 9c45f67c26e68b3f8284a947050ab0c1 ""
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "test.aux" 1567609050 9813 6324d3365931b09bcf0e42a92d431ba9 ""
-  "test.lof" 1567609050 3591 f1f550b7b2b1d0dbc87e767165c9fe81 ""
-  "test.lot" 1567609050 266 d98a909a11d5cbe0b070b0721ca047ae ""
-  "test.tex" 1567609005 80784 6dba4a305a5c715a6dbcafb9c4e5949f ""
-  "test.toc" 1567609050 2846 acb76eba56ca4a49a151252cb32eb513 ""
+  "test.aux" 1568223068 9813 3d635c32f911cc46da4866a856da169c ""
+  "test.lof" 1568223068 3591 47a00c52502bc2636588b59b969b5e9d ""
+  "test.lot" 1568223068 266 d98a909a11d5cbe0b070b0721ca047ae ""
+  "test.tex" 1568224581 81035 f27c11cc59dc9df181bc8d30361a3791 ""
+  "test.toc" 1568223068 2846 acb76eba56ca4a49a151252cb32eb513 ""
   (generated)
+  "test.toc"
   "test.aux"
   "test.lot"
+  "test.xdv"
   "test.log"
   "test.lof"
-  "test.toc"
-  "test.xdv"
